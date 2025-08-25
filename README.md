@@ -1,1 +1,3 @@
 # Programacion1_com4_NicolasBohm
+#ProfesoraCinthiaRigoni
+#NroLegajo802050
